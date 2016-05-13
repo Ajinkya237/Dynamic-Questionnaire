@@ -4,7 +4,7 @@ Django App for Dynamic Questionnaire
 
 Save and open in GitHub Desktop App
 
-Run Git Shell
+Run command prompt
 
 Be in the directory with manage.py file i.e GitHub\Dynamic-Questionnaire\website
 
